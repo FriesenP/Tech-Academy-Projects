@@ -1,1 +1,4 @@
 Text file for git bash !!!
+added another line of text
+and another line
+maybe it'll work this time
